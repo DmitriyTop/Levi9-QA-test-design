@@ -3,4 +3,4 @@
 ## Links to documentation
 
 Orthogonal Arrays templates: 
-- https://www.york.ac.uk/depts/maths/tables/orthogonal.htm
+- http://support.sas.com/techsup/technote/ts723b.pdf
